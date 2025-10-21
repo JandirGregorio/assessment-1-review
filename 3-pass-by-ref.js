@@ -1,4 +1,4 @@
-const student = require('./2objects-nested-objects')
+const student = require('./2-objects-nested-objects')
 
 const copy = student;
 copy.name = 'Jordan';
